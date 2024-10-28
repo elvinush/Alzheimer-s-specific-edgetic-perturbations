@@ -1,4 +1,6 @@
-There have been three main coding steps in the thesis: Preprocessing, Preparation for Cytoscape and Analysis.
+There have been four main coding steps in the thesis: Creation of the global PPIN, Preprocessing, Preparation for Cytoscape and Analysis.
+
+For the creation and pruning of the global PPIN globalPPIN_Kuester.ipynb was used.
 
 Preprocessing consisted of first running Prep_proteiNORM.ipynb to fit the MS datasets into the format required by ProteiNORM.
 After that, normalize_vsn.R and normalize_cyclic.R normalized each dataset with the respective method.
