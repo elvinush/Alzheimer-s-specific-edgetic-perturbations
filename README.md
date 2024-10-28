@@ -8,4 +8,4 @@ Lastly, Random_Forest_Impute.py takes each dataset and imputes missing values.
 For Cytoscape preparation I just needed avg_patient_official.ipynb to average out all abundance data for each group.
 
 In step 3 (Analysis) there is the script naming_efficiency.ipynb which measures how efficient the mapping of MS data onto the global PPIN was.
-Next, score_
+Next, score_pert_edges2.ipynb scores all edges from all networks and score_pert_nodes.ipynb scores all nodes that were present in the rewired networks.
